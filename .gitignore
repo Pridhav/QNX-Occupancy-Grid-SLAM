@@ -53,3 +53,19 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# QNX Momentics Build Output Folders
+x86_64/
+x86/
+arm/
+aarch64/
+o/
+o-g/
+
+# Python cache (for your PyBullet drone sim)
+__pycache__/
+*.pyc
+
+# OS metadata
+.DS_Store
+Thumbs.db
