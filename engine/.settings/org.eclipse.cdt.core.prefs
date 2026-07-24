@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/com.qnx.qcc.toolChain.1941199949/C_INCLUDE_PATH/delimiter=;
+environment/project/com.qnx.qcc.toolChain.1941199949/C_INCLUDE_PATH/operation=append
+environment/project/com.qnx.qcc.toolChain.1941199949/C_INCLUDE_PATH/value=D\:\\BTECH\\Sem6\\QNX\\Disaster_Rescue_slam\\Target_qnx\\include
+environment/project/com.qnx.qcc.toolChain.1941199949/append=true
+environment/project/com.qnx.qcc.toolChain.1941199949/appendContributed=true
