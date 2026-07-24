@@ -1,6 +1,6 @@
 # Real-Time Occupancy Grid SLAM Engine on QNX RTOS
 
-A lightweight, bare-metal 2D Occupancy Grid SLAM engine built from scratch in C on the **QNX Real-Time Operating System**. The system ingests 1,024-ray LiDAR point clouds over TCP, synchronizes telemetry via zero-copy shared memory, and generates a persistent spatial map using integer-based Bresenham ray-casting.
+A lightweight, bare-metal 2D Occupancy Grid SLAM engine built from scratch in C on the **QNX Real-Time Operating System**. The system ingests 1,024-ray LiDAR point clouds over UDP, synchronizes telemetry via zero-copy shared memory, and generates a persistent spatial map using integer-based Bresenham ray-casting.
 
 > **Achievement:** Selected among the **Top 10 Projects** in the QNX RTOS course cohort.
 
